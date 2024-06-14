@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2N3904S-RTK_PS
+D Transistors (NPN/PNP) NPN 200mA 40V SOT-23(SOT-23-3) RoHS
+K
+F https://datasheet.lcsc.com/szlcsc/KEC-Semicon-2N3904S-RTK-PS_C18536.pdf
+$ENDCMP
+#
+#End Doc Library

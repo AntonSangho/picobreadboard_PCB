@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MY-2032-08
+D Battery button -25~+85 CR2032 SMD Battery Connectors ROHS
+K
+F https://datasheet.lcsc.com/lcsc/2012181809_MYOUNG-MY-2032-08_C964831.pdf
+$ENDCMP
+#
+#End Doc Library

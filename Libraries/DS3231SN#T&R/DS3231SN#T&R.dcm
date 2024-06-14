@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DS3231SN#T&R
+D MAXIM INTEGRATED PRODUCTS - DS3231SN#T&R - RTC IC, Date Time Format (Day/Date/Month/Year hh:mm:ss), I2C, 2.3 V to 5.5 V supply, SOIC-16
+K
+F https://datasheets.maximintegrated.com/en/ds/DS3231.pdf
+$ENDCMP
+#
+#End Doc Library

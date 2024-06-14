@@ -1,0 +1,25 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model ALS-PT19-315C_L177_TR8
+#/612387/1221387/2.50/2/4/Resistor
+DEF ALS-PT19-315C_L177_TR8 R 0 30 Y Y 1 F N
+F0 "R" 550 250 50 H V L CNN
+F1 "ALS-PT19-315C_L177_TR8" 550 150 50 H V L CNN
+F2 "ALSPT19315CL177TR8" 550 50 50 H I L CNN
+F3 "http://www.mouser.com/ds/2/143/201407061531031645-365293.pdf" 550 -50 50 H I L CNN
+F4 "Ambient Light Sensors Ambient Light Sensor" 550 -150 50 H I L CNN "Description"
+F5 "0" 550 -250 50 H I L CNN "Height"
+F6 "Everlight" 550 -350 50 H I L CNN "Manufacturer_Name"
+F7 "ALS-PT19-315C/L177/TR8" 550 -450 50 H I L CNN "Manufacturer_Part_Number"
+F8 "638-ALSPT19315CL177" 550 -550 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Everlight/ALS-PT19-315C-L177-TR8?qs=8PzhAHr7IdN7OeHhwLrtPw%3D%3D" 550 -650 50 H I L CNN "Mouser Price/Stock"
+F10 "ALS-PT19-315C/L177/TR8" 550 -750 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/als-pt19-315cl177tr8/everlight-electronics?region=nac" 550 -850 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 700 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 50 500 50 500 -50 200 -50 200 50 N
+ENDDRAW
+ENDDEF
+#
+#End Library

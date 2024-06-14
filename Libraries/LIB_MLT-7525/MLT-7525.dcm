@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MLT-7525
+D Buzzers Magnetic NO 2700Hz 3.6V 2.5 ~ 4.5V 7.5mm x 7.5mm 7.5*7.5*2.5mm RoHS
+K
+F https://datasheet.lcsc.com/szlcsc/Jiangsu-Huaneng-Elec-MLT-7525_C95299.pdf
+$ENDCMP
+#
+#End Doc Library

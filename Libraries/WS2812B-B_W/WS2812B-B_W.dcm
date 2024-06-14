@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP WS2812B-B_W
+D 12mA RGB SMD,5x5mm Light Emitting Diodes (LED) ROHS
+K
+F https://datasheet.lcsc.com/lcsc/2106062036_Worldsemi-WS2812B-B-W_C2761795.pdf
+$ENDCMP
+#
+#End Doc Library

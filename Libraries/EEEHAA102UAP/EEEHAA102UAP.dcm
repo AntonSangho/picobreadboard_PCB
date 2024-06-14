@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EEEHAA102UAP
+D Aluminum Electrolytic Capacitors - SMD 1000uF +/-20% 10V SMD,10x10.2mm RoHS
+K
+F http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1148.pdf
+$ENDCMP
+#
+#End Doc Library

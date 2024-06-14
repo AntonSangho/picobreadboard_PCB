@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1N5711W-7-F
+D MULTICOMP - 1N5711W-7-F - DIODE, RF, 2PF, 70V, SOD-123
+K
+F http://www.farnell.com/datasheets/1693650.pdf?_ga=2.151387199.74303312.1512125627-1411154270.1472651675
+$ENDCMP
+#
+#End Doc Library
