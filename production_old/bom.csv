@@ -1,0 +1,3 @@
+Designator,Footprint,Quantity,Value,LCSC Part #,Mfr. Part #
+"J1, J14, J16, J2",PinSocket_2x20_P2.54mm_Vertical_SMD,4,Conn_02x20_Odd_Even,C3975165,PM254-2-20-S-8.5
+"J3, J4",PinHeader_2x20_P2.54mm_Vertical_SMD,2,Conn_02x20_Odd_Even,C6332245,HB-PH9-254220PB2GOP

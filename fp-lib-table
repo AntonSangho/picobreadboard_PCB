@@ -29,4 +29,5 @@
   (lib (name "BH1750")(type "KiCad")(uri "${KIPRJMOD}/Libraries/BH1750")(options "")(descr ""))
   (lib (name "TF-115")(type "KiCad")(uri "${KIPRJMOD}/Libraries/TF-115")(options "")(descr ""))
   (lib (name "DC-050-T20")(type "KiCad")(uri "${KIPRJMOD}/Libraries/DC-050-T20")(options "")(descr ""))
+  (lib (name "logo")(type "KiCad")(uri "${KIPRJMOD}/Libraries/logo")(options "")(descr ""))
 )
